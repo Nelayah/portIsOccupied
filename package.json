@@ -13,7 +13,8 @@
     "url": "git+git@github.com:Nelayah/portIsOccupied.git"
   },
   "keywords": [
-    "function"
+    "node",
+    "port"
   ],
   "author": "hayalen",
   "license": "MIT",
