@@ -1,6 +1,6 @@
 {
   "name": "portisoccupied",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Check if a port is occupied",
   "main": "lib/index.js",
   "scripts": {
